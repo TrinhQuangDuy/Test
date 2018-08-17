@@ -1,2 +1,3 @@
 hom nay troi mua qua
 day la mot message duoc them vao tren server truoc khi pull
+Inser a messaga before merge
